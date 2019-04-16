@@ -5,3 +5,4 @@
 1. https://www.cnblogs.com/conglvse/p/9562521.html
 2. https://www.jianshu.com/p/0787a1beec0c
 3. https://www.kancloud.cn/cooldrw2015/vue_jd/935785
+4. https://www.cnblogs.com/Wayou/archive/2012/10/05/jQueryRaty.html
