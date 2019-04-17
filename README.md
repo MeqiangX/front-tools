@@ -10,3 +10,6 @@
 
 ## 多功能下拉框
 1. https://terryz.gitee.io/selectmenu/demo.html
+
+## JQuery UI
+1. http://www.jqueryui.org.cn/demo/5629.html
