@@ -9,7 +9,9 @@
 5. https://juejin.im/entry/5a7557036fb9a063523dc826
 
 ## 多功能下拉框
-1. https://terryz.gitee.io/selectmenu/demo.html
+1. selectmenu https://terryz.gitee.io/selectmenu/demo.html
+2. select2 https://blog.csdn.net/qq_19865749/article/details/78238068
+
 
 ## JQuery UI
 1. http://www.jqueryui.org.cn/demo/5629.html
