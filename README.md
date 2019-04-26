@@ -15,3 +15,7 @@
 
 ## JQuery UI
 1. http://www.jqueryui.org.cn/demo/5629.html
+
+## 海报 Logo
+1. 海报 Canva https://www.canva.cn/create/posters/
+2. Logo U码 http://www.uugai.com/logoa/index.php
