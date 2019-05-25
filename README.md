@@ -12,7 +12,6 @@
 1. selectmenu https://terryz.gitee.io/selectmenu/demo.html
 2. select2 https://blog.csdn.net/qq_19865749/article/details/78238068
 
-
 ## JQuery UI
 1. http://www.jqueryui.org.cn/demo/5629.html
 
@@ -21,11 +20,12 @@
 2. Logo U码 http://www.uugai.com/logoa/index.php
 3. 创可贴 https://www.chuangkit.com/
 
-
 ## UI框架
 1. SUI http://sui.taobao.org/sui/docs/gallery.html 也可以在这儿找一些常用组件 后台模板
 2. BUI http://ui.baifendian.com/guide 基于React的 的UI库 挺好的，有时间可以学习React 来学习
 
+## 地图
+1. JShare https://jshare.com.cn/highmaps/FSSm7A/53
 
 ## 学习
 1. http://hao.f2ex.cn/ F2EX
