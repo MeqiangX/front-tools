@@ -25,7 +25,7 @@
 2. BUI http://ui.baifendian.com/guide 基于React的 的UI库 挺好的，有时间可以学习React 来学习
 
 ## 地图
-1. JShare https://jshare.com.cn/highmaps/FSSm7A/53
+1. highmaps https://www.highcharts.com.cn/docs/highmaps-started
 
 ## 学习
 1. http://hao.f2ex.cn/ F2EX
